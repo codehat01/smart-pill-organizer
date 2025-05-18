@@ -157,9 +157,7 @@ The device operates as follows:
 ---
 
 ## Future Improvements
-
 * Add a sensor to detect low pill levels.
 * Include multiple compartments for different medications.
 * Enable remote monitoring through a cloud-connected app.
-
 ---
