@@ -3,7 +3,6 @@
 A user-friendly device designed to help individuals manage their medication schedules. The dispenser uses Bluetooth connectivity to interact with an Android app, allowing users to set medication timings and receive reminders.
 
 ---
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
